@@ -6,5 +6,3 @@ url: "https://venturedesk.github.io"
 theme: jekyll-theme-cayman
 
 # Prevent raw system files from cluttering your web output
-exclude:
-  - README.md
