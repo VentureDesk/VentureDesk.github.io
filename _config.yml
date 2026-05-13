@@ -1,0 +1,10 @@
+title: "VentureDesk | Brand Narratives & Strategy"
+description: "Strategic positioning frameworks and growth messaging architectures curated by Daniel Igwe for VentureStori."
+url: "https://venturedesk.github.io"
+
+# This single line applies a gorgeous, modern responsive theme instantly:
+theme: jekyll-theme-cayman
+
+# Prevent raw system files from cluttering your web output
+exclude:
+  - README.md
